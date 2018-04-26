@@ -50,6 +50,7 @@
    
     <access origin="*" />
 	<access origin="http://typo3.vrisini.com/fabdyl/" />
+	
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
